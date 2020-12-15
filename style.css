@@ -50,3 +50,13 @@ Body {
     border: 1px solid gray;
     border-radius: 6px;
 }
+#Footer{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+}
